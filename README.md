@@ -1,4 +1,4 @@
-## Ola !
+## Alan Borges
 
 🎓 Sou economista com foco em ciência de dados aplicada às finanças e ao mercado financeiro brasileiro.
 
